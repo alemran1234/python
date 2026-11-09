@@ -1,3 +1,4 @@
+#data types of python
 name="Emran"
 age=21
 cgpa=3.04
